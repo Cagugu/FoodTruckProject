@@ -92,5 +92,6 @@ public class FoodTruckApp {
 				System.out.println("You have chosen to quit. Buh Bye!");
 			}
 		}
+		kb.close();
 	}
 }
